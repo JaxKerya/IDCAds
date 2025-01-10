@@ -1,6 +1,6 @@
-# IDCAds - Google Arama Reklamları Engelleyici
+# ![Logo](images/icon48.png) IDCAds - Google Arama Reklamları Engelleyici
 
-![Logo](images/icon48.png)
+
 
 ## 📝 Açıklama
 
