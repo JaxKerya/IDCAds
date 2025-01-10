@@ -10,7 +10,7 @@ IDCAds, Google arama sonuçlarındaki reklamları otomatik olarak engelleyen bir
 
 - Google arama sonuçlarındaki reklamları otomatik engelleme
 - Hafif ve performanslı çalışma
-- Google ve Google Türkiye aramalarında çalışır (google.com / google.com.tr)
+- Google ve Google Türkiye aramalarında çalışır (`google.com` / `google.com.tr`)
 
 ## 🚀 Kurulum
 
