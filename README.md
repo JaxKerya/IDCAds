@@ -15,7 +15,7 @@ IDCAds, Google arama sonuçlarındaki reklamları otomatik olarak engelleyen bir
 ## 🚀 Kurulum
 
 1. [Releases](https://github.com/JaxKerya/IDCAds/releases) sayfasından en son sürümü indirin (`extension.zip`)
-2. İndirdiğiniz ZIP dosyasını bilgisayarınızda bir klasöre ayıklayın
+2. İndirdiğiniz ZIP dosyasına sağ tıklayarak `Klasöre Ayıkla` seçeneğini seçin
 3. Tarayıcınızda uzantılar sayfasını açın
 4. Geliştirici modunu aktif edin
 5. "Paketlenmemiş öğe yükle" butonuna tıklayın ve ayıkladığınız klasörü seçin veya klasörü uzantılar sayfasına sürükleyin
