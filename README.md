@@ -30,11 +30,11 @@ IDCAds, Google arama sonuçlarındaki reklamları otomatik olarak engelleyen bir
 
 ## 🤝 Katkıda Bulunma
 
-1. Bu projeyi fork edin
-2. Feature branch'i oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Branch'inize push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request oluşturun
+1. Bu projeyi fork edin (Sağ üst köşedeki "Fork" butonuna tıklayın)
+2. Yeni bir branch oluşturun (`git checkout -b feature/YeniÖzellik`)
+3. Yaptığınız değişiklikleri commit edin (`git commit -m 'Reklam engelleme algoritması iyileştirildi'`)
+4. Branch'inize push edin (`git push origin feature/YeniÖzellik`)
+5. GitHub üzerinden "Pull Request" oluşturun ve değişikliklerinizi açıklayın
 
 ## 📝 İletişim
 
