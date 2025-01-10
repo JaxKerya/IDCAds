@@ -1,4 +1,4 @@
-# ![Logo](images/icon16.png) IDCAds - Google Arama Reklamları Engelleyici
+# ![Logo](images/icon28.png) IDCAds - Google Arama Reklamları Engelleyici
 
 
 
