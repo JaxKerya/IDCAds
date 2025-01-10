@@ -1,0 +1,7 @@
+/* Google reklamlarını gizlemek için */
+.commercial-unit,
+.ads-ad,
+#tads,
+#tadsb {
+    display: none !important;
+} 

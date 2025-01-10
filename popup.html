@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/popup.css">
+  <title>IDCAds</title>
+  <style>
+    .popup {
+        padding: 15px;
+        min-width: 200px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .title {
+        font-size: 18px;
+        margin: 0;
+        color: #333;
+    }
+
+    .status-wrapper {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background-color: #e8f5e9;
+        padding: 8px 12px;
+        border-radius: 6px;
+        margin-top: 5px;
+        transition: all 0.3s ease;
+    }
+
+    .status-text {
+        color: #2e7d32;
+        font-size: 14px;
+    }
+
+    .status-dot {
+        width: 8px;
+        height: 8px;
+        background-color: #4caf50;
+        border-radius: 50%;
+        animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+        0% {
+            transform: scale(1);
+            opacity: 1;
+        }
+        50% {
+            transform: scale(1.2);
+            opacity: 0.7;
+        }
+        100% {
+            transform: scale(1);
+            opacity: 1;
+        }
+    }
+  </style>
+</head>
+<body>
+  <div class="popup">
+    <h1 class="title" data-i18n="statusWorking"></h1>
+    <div class="status-wrapper">
+      <span class="status-text" data-i18n="statusBlocking"></span>
+      <span class="status-dot"></span>
+    </div>
+  </div>
+
+  <script src="popup.js" defer></script>
+</body>
+</html> 
