@@ -4,14 +4,13 @@
 
 ## 📝 Açıklama
 
-IDCAds, Google arama sonuçlarındaki reklamları otomatik olarak engelleyen bir Chrome uzantısıdır. Bu uzantı, arama deneyiminizi daha temiz ve rahatsız edici reklamlardan arındırılmış hale getirir.
+IDCAds, Google arama sonuçlarındaki reklamları otomatik olarak engelleyen bir tarayıcı uzantısıdır. Bu uzantı, arama deneyiminizi daha temiz ve rahatsız edici reklamlardan arındırılmış hale getirir.
 
 ## ✨ Özellikler
 
 - Google arama sonuçlarındaki reklamları otomatik engelleme
-- Basit ve kullanıcı dostu arayüz
 - Hafif ve performanslı çalışma
-- Google ve Google Türkiye aramalarında çalışır
+- Google ve Google Türkiye aramalarında çalışır (google.com / google.com.tr)
 
 ## 🚀 Kurulum
 
